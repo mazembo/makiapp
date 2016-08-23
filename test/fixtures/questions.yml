@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  enonce: MyText
+  assertion_1: MyString
+  assertion_2: MyString
+  assertion_3: MyString
+  assertion_4: MyString
+  assertion_5: MyString
+  bonne_reponse: 1
+  annee_reprise: 1
+  cours_id: 1
+
+two:
+  enonce: MyText
+  assertion_1: MyString
+  assertion_2: MyString
+  assertion_3: MyString
+  assertion_4: MyString
+  assertion_5: MyString
+  bonne_reponse: 1
+  annee_reprise: 1
+  cours_id: 1
